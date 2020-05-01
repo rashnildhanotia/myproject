@@ -80,6 +80,8 @@ When the librarian has been logged out he/she comes back to the main page.
 
 Data Flow Diagram:-
 
+![](https://raw.githubusercontent.com/rashnildhanotia/myproject/master/ScreenShots/diag.jpg)
+
 
  
 
