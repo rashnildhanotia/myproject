@@ -2,18 +2,6 @@ Project Report
 
 Topic: Library management System
 
-Class- Cs-I (Second Year)
-
-Enroll. No. – 1810DMTCYFS03233
-
-Submitted To-                                                                                    Submitted By-
-Mr. Sachin Chirgaiya Sir                                                             Rashnil Dhanotia
-
-
-
-
-
-
 Objective:-
 Library management software in which one is the admin and the other is the librarian. 
 Admin’s work is to add, view and delete Librarian.
